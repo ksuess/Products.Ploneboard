@@ -343,7 +343,7 @@ msgstr "URLs werden automatisch verlinkt."
 #. Default: "Provide the text in the image. Just to avoid spambots"
 #: ../skins/ploneboard_templates/add_comment_form.cpt:130
 msgid "help_captcha"
-msgstr ""
+msgstr "Bitte geben Sie den abgebildeten Text ein."
 
 #. Default: "Enter the categories you want to have available for forums, one category on each line."
 msgid "help_categories_board"
